@@ -1,2 +1,2 @@
-# tickey-pinkz-code-refactor
+# horiseon-code-refactor
 Bootcamp Challenge 1
